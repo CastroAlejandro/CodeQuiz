@@ -1,17 +1,17 @@
 var questions = [
 	{
-		title: "Pick A",
-		choices: ['A', 'B', 'C'],
-		answer: "A"
+		title: "What is Cryptocurrency?",
+		choices: ['Money', 'Information', 'Digital Tokens', 'Store of Value'],
+		answer: "Store of Value"
 	},
 	{
-		title: "Pick B",
-		choices: ['A', 'B', 'C'],
-		answer: "B"
+		title: "What was the first cryptocurrency coin created?",
+		choices: ['Bitcoin', 'LiteCoin', 'DogeCoin', 'Ethereum'],
+		answer: "Bitcoin"
 	},
 	{
-		title: "Pick C",
-		choices: ['A', 'B', 'C'],
+		title: "Third Question",
+		choices: ['A', 'B', 'C', 'D'],
 		answer: "C"
 	},
 ]
